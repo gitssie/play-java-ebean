@@ -1,0 +1,17 @@
+[info] Packaging E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\play-java-ebean_2.10-2.2.1a-sources.jar ...
+[debug] Input file mappings:
+[debug] 	play\db\ebean\Transactional.java
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\java\play\db\ebean\Transactional.java
+[debug] 	play\db\ebean\package-info.java
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\java\play\db\ebean\package-info.java
+[debug] 	play.plugins
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\resources\play.plugins
+[debug] 	play\db\ebean\EbeanPlugin.java
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\java\play\db\ebean\EbeanPlugin.java
+[debug] 	play\db\ebean\Model.java
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\java\play\db\ebean\Model.java
+[debug] 	play\db\ebean\TransactionalAction.java
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\java\play\db\ebean\TransactionalAction.java
+[debug] 	ebean.properties
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\src\main\resources\ebean.properties
+[info] Done packaging.

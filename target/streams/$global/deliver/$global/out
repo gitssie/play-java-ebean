@@ -1,0 +1,4 @@
+[info] :: delivering :: com.typesafe.play#play-java-ebean_2.10;2.2.1a :: 2.2.1a :: release :: Mon Jul 27 15:42:23 GMT+08:00 2015
+[debug] 	options = status=release pubdate=Mon Jul 27 15:42:23 GMT+08:00 2015 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\ivy-2.2.1a.xml
+[debug] 	deliver done (114ms)

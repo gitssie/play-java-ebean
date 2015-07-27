@@ -1,0 +1,27 @@
+[info] Packaging E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\play-java-ebean_2.10-2.2.1a.jar ...
+[debug] Input file mappings:
+[debug] 	play.plugins
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play.plugins
+[debug] 	play
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play
+[debug] 	play\db\ebean\EbeanPlugin.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\EbeanPlugin.class
+[debug] 	play\db
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db
+[debug] 	play\db\ebean\TransactionalAction$1.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\TransactionalAction$1.class
+[debug] 	play\db\ebean\TransactionalAction.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\TransactionalAction.class
+[debug] 	play\db\ebean\EbeanPlugin$WrappingDatasource.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\EbeanPlugin$WrappingDatasource.class
+[debug] 	play\db\ebean
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean
+[debug] 	play\db\ebean\Model.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\Model.class
+[debug] 	play\db\ebean\Model$Finder.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\Model$Finder.class
+[debug] 	ebean.properties
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\ebean.properties
+[debug] 	play\db\ebean\Transactional.class
+[debug] 	  E:\play\play-2.2.1\framework\src\play-java-ebean\target\scala-2.10\classes\play\db\ebean\Transactional.class
+[info] Done packaging.
