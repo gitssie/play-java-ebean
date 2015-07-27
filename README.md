@@ -1,5 +1,6 @@
 # play-java-ebean
-let play2.x support ebean6.x 
+let play2.x support ebean6.x
+
 1、modify play project plugins.sbt
   // Comment to get more information during initialization
   logLevel := Level.Warn
